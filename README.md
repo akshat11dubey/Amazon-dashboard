@@ -111,10 +111,7 @@ Use gender insights for targeted campaigns.
 Use daily trend analysis for better stock planning.
 
 📸 Dashboard Preview
+
 https://github.com/akshat11dubey/Amazon-dashboard/blob/main/Screenshot%202026-04-16%20140549.png
 
 
-
-🏆 Conclusion
-
-The Amazon Sales Dashboard transforms raw e-commerce data into meaningful business insights. It empowers decision-makers to monitor revenue, improve profitability, and optimize product strategy through an engaging and professional Power BI  # Amazon-dashboard
