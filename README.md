@@ -111,7 +111,7 @@ Use gender insights for targeted campaigns.
 Use daily trend analysis for better stock planning.
 
 📸 Dashboard Preview
-Screenshot 2026-04-16 140549.png
+https://github.com/akshat11dubey/Amazon-dashboard/blob/main/Screenshot%202026-04-16%20140549.png
 
 
 
